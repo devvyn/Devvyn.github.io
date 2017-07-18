@@ -1,16 +1,36 @@
 ---
 ...
-# Devvyn
+# Devvyn Patrick Murphy
 
-## About
+## Summary
 
-* Devvyn is a human being who lives in Saskatoon, Saskatchewan, Canada
-* Loves to protect and/or restore your sanity with a bit of code in the right place at the right time
-* Bitten by the coding bug at age 9
-* Never scared of learning; always looking around the corner
+* Devvyn is:
+    - a human being who lives in Saskatoon, Saskatchewan, Canada
+    - professionally experienced programmer, designer, administrator (6+ years)
+    - self taught in theoretical and applied sciences, chiefly computers and technology
+    - a pasionate advocate for design based on human factors
+* Devvyn's heart resonates with glee while:
+    - architecting and designing interactive systems for human beings
+    - being a perfectionist who gets good results under challenging constraints
+    - sharing the joy of programming with curious humans
+    - learning something new from a podcast or web article
+* Devvyn's stomach twinges in the presence of:
+    - typeface abuse, white space neglect, and overworked cliches
+    - unfriendly websites and apps for otherwise exemplary companies
+    - most of my past work, after about six months
+* Devvyn will gladly converse with you, ad nauseum about:
+    - critical thinking, logical fallacies, and the human mind
+    - composing, curating, analyzing and experiencing music
+    - Linux, open source software, command line tools, servers, and "the cloud"
+    - anything you find fascinating, if you can convey your point of view
 
-## Follow
 
-* [@Devvyn](https://twitter.com/Devvyn) on Twitter
+## External Links
+
 * [Devvyn](https://github.com/Devvyn) on GitHub
+* [@Devvyn](https://twitter.com/Devvyn) on Twitter
+* [/devvyn](https://www.facebook.com/devvyn) on Facebook
 
+# About this site
+
+This page is at [devvyn.io](http://devvyn.io/), which is hosted on GitHub ([Source](https://github.com/devvyn/Devvyn.github.io)).
