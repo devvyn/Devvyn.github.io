@@ -64,5 +64,4 @@
 
 # **About this site**
 
-This page is at [devvyn.io](http://devvyn.io/), which is hosted on GitHub ([Source).](https://github.com/devvyn/Devvyn.github.io)
-
+This page is at [devvyn.io](http://devvyn.io/), which is hosted on GitHub ([Source](https://github.com/devvyn/Devvyn.github.io)).
