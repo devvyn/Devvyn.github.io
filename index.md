@@ -1,67 +1,65 @@
 ---
+layout: default
 ...
 
-# **Devvyn Patrick Murphy**
-
-
-## Summary
-
-### Devvyn is:
+# I consider myself to be:
 
 - a human being who lives in Saskatoon, Saskatchewan, Canada
-
 - professionally experienced programmer, designer, administrator (6+ years)
-
 - self taught in theoretical and applied sciences, chiefly computers and technology
-
 - a passionate advocate for design based on human factors
 
-### Devvyn's heart resonates with glee while:
+# My heart resonates with glee while:
 
 - architecting and designing interactive systems for human beings
-
 - being a perfectionist who gets good results under challenging constraints
-
 - sharing the joy of programming with curious humans
-
 - learning something new from a podcast or web article
 
-### Devvyn's stomach twinges in the presence of:
+# My stomach twinges in the presence of:
 
 - typeface abuse, white space neglect, and overworked cliches
-
 - unfriendly websites and apps for otherwise exemplary companies
-
 - most of my past work, after about six months
 
-### Devvyn will gladly converse with you, ad nauseam about:
+# I will gladly converse with you, ad nauseam about:
 
 - critical thinking, logical fallacies, and the human mind
-
 - composing, curating, analyzing and experiencing music
-
 - Linux, open source software, command line tools, servers, and "the cloud"
-
 - anything you find fascinating, if you can convey your point of view
 
-## External Links
+# I'm online at:
 
-### [Devvyn](https://github.com/Devvyn) on GitHub
+### GitHub: [devvyn](https://github.com/Devvyn)
 
 - Open source software – Personal projects and public contributions
 
-### @[Devvyn](https://twitter.com/Devvyn) on Twitter
-
-- Occasional thoughts, tips, links, gripes
-
-### /[user/devvynmurphy](https://www.youtube.com/user/devvynmurphy) on YouTube
+### YouTube: [devvynmurphy](https://www.youtube.com/user/devvynmurphy)
 
 - Channel dedicated to three minute explanations (1 video)
 
 	- [PhotoShop Layer Mask](http://youtu.be/uRJoY5odA7k)
 
-### /[devvyn](https://www.facebook.com/devvyn) on Facebook
+### DeviantArt: [devvyn](https://devvyn.deviantart.com)
 
-# **About this site**
+- [Digital paintings](http://devvyn.deviantart.com/gallery/4048255/FaceBook-Grafitti)
+  I made with the *Grafitti* "app" on Facebook
+- [Photo manipulations](http://devvyn.deviantart.com/gallery/4048174/Photomanipulations)
+  I made with Photoshop, for fun
+- [Artistic photographs](http://devvyn.deviantart.com/gallery/4048186/Photography)
+  I captured (with rather bad digital cameras)
 
-This page is at [devvyn.io](http://devvyn.io/), which is hosted on GitHub ([Source](https://github.com/devvyn/Devvyn.github.io)).
+### Twitter: [devvyn](https://twitter.com/Devvyn)
+
+- Tips, links, gripes, miscellaneous
+
+### Facebook: [devvyn](https://www.facebook.com/devvyn)
+
+- Personal profile, and some photos
+
+# About this site
+
+The [source](https://github.com/devvyn/Devvyn.github.io) for this site's content is stored on GitHub.
+The resulting website is generated and hosted by [GitHub Pages](https://pages.github.com/).
+You can view this site at [devvyn.github.io] or [devvyn.io].
