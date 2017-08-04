@@ -67,3 +67,6 @@ layout: default
 The [source](https://github.com/devvyn/Devvyn.github.io) for this site's content is stored on GitHub.
 The resulting website is generated and hosted by [GitHub Pages](https://pages.github.com/).
 You can view this site at [devvyn.github.io] or [devvyn.io].
+
+[devvyn.github.io]: http://devvyn.github.io/
+[devvyn.io]: http://devvyn.io/
