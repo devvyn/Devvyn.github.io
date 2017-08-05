@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About Devvyn
 ...
 
 # I consider myself to be:
