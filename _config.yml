@@ -39,6 +39,8 @@ safe: true
 exclude:
   - Gemfile
   - Gemfile.lock
+  - docker-compose.yml
+  - README.md
 source: .
 incremental: false
 highlighter: rouge
