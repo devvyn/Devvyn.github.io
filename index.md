@@ -31,42 +31,56 @@ layout: default
 
 # I'm online at:
 
-### GitHub: [devvyn](https://github.com/Devvyn)
+### GitHub: [devvyn][github]
 
 - Open source software – Personal projects and public contributions
 
-### StackOverflow: [devvyn](https://stackoverflow.com/users/780458/devvyn)
+### StackOverflow: [devvyn][stackoverflow]
 
 - Programming Q & A Community
 
-### YouTube: [devvynmurphy](https://www.youtube.com/user/devvynmurphy)
+### YouTube: [devvynmurphy][youtube]
 
 - Channel dedicated to three minute explanations (1 video)
 
-	- [PhotoShop Layer Mask](http://youtu.be/uRJoY5odA7k)
+	- [PhotoShop Layer Mask][youtube-vid1]
 
-### DeviantArt: [devvyn](https://devvyn.deviantart.com)
+### DeviantArt: [devvyn][deviantart]
 
-- [Digital paintings](http://devvyn.deviantart.com/gallery/4048255/FaceBook-Grafitti)
+- [Digital paintings][deviantart 2]
   I made with the *Grafitti* "app" on Facebook
-- [Photo manipulations](http://devvyn.deviantart.com/gallery/4048174/Photomanipulations)
+- [Photo manipulations][deviantart 3]
   I made with Photoshop, for fun
-- [Artistic photographs](http://devvyn.deviantart.com/gallery/4048186/Photography)
+- [Artistic photographs][deviantart 4]
   I captured (with rather bad digital cameras)
 
-### Twitter: [devvyn](https://twitter.com/Devvyn)
+### Twitter: [devvyn][twitter]
 
 - Tips, links, gripes, miscellaneous
 
-### Facebook: [devvyn](https://www.facebook.com/devvyn)
+### Facebook: [devvyn][facebook]
 
 - Personal profile, and some photos
 
 # About this site
 
-The [source](https://github.com/devvyn/Devvyn.github.io) for this site's content is stored on GitHub.
-The resulting website is generated and hosted by [GitHub Pages](https://pages.github.com/).
+The [source] for this site's content is stored on GitHub.
+The resulting website is generated and hosted by [GitHub Pages].
 You can view this site at [devvyn.github.io] or [devvyn.io].
 
+
+
+[deviantart]: https://devvyn.deviantart.com
+[deviantart 2]: http://devvyn.deviantart.com/gallery/4048255/FaceBook-Grafitti
+[deviantart 3]: http://devvyn.deviantart.com/gallery/4048174/Photomanipulations
+[deviantart 4]: http://devvyn.deviantart.com/gallery/4048186/Photography
 [devvyn.github.io]: http://devvyn.github.io/
 [devvyn.io]: http://devvyn.io/
+[facebook]: https://www.facebook.com/devvyn
+[github]: https://github.com/Devvyn
+[GitHub Pages]: https://pages.github.com/
+[source]: https://github.com/devvyn/Devvyn.github.io
+[stackoverflow]: https://stackoverflow.com/users/780458/devvyn
+[twitter]: https://twitter.com/Devvyn
+[youtube-vid1]: http://youtu.be/uRJoY5odA7k
+[youtube]: https://www.youtube.com/user/devvynmurphy
