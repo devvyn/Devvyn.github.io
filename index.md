@@ -29,7 +29,10 @@ layout: default
 - Linux, open source software, command line tools, servers, and "the cloud"
 - anything you find fascinating, if you can convey your point of view
 
-# I'm online at:
+# My usernames:
+
+I'm usually just `devvyn`, though sometimes I'm stuck with
+`devvynpm` or `devvynmurphy`. (I'm never `dewyn`.)
 
 ### GitHub: [devvyn][github]
 
@@ -37,7 +40,7 @@ layout: default
 
 ### StackOverflow: [devvyn][stackoverflow]
 
-- Programming Q & A Community
+- Programming Q & A community
 
 ### YouTube: [devvynmurphy][youtube]
 
@@ -49,6 +52,7 @@ layout: default
 
 - [Digital paintings][deviantart 2]
   I made with the *Grafitti* "app" on Facebook
+  (brush only, no layers or blends)
 - [Photo manipulations][deviantart 3]
   I made with Photoshop, for fun
 - [Artistic photographs][deviantart 4]
