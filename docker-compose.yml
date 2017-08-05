@@ -10,11 +10,5 @@ services:
       - "80:4000"
     networks:
       - webnet
-    deploy:
-      resources:
-        limits:
-          memory: 500M
-      restart_policy:
-        condition: never
 networks:
   webnet:
