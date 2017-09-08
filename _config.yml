@@ -30,7 +30,7 @@ github_username:  devvyn
 # Build settings
 markdown: kramdown
 theme: minima
-plugins: # formerly 'gems'
+plugins_dir: # formerly 'plugins' (formerly 'gems')
   - jekyll-feed
   - jekyll-coffeescript
   - jekyll-paginate

@@ -1,5 +1,4 @@
 ---
-published: false
 ...
 
 # Philips Hue API for Python
@@ -374,4 +373,4 @@ It's probably time to get serious about re-usability. Nobody wants to have to re
 
 What would be relevant for our intended needs depends entirely on what we want to do. We should formalize our intentions, now that we know Jupyter Notebook is a decent place to tinker. A good idea might be to create an interactive dashboard. It may be helpful to see if any libraries have already been written to interface with Philips hue in Python, so we don't have te re-build classes as we go through exercises in this narrative fashion.
 
-We also don't want our "username" lingering in the open in our examples, as this is an access token and it's considered security faux pas to prioritize convenience over secrecy when handling private access tokens. It's probably prudent to find a way of passing that token invisibly through our environment, or encrypting it at the very least. Environment variables are usually a good way to do pass strings without storing them in distributed sources.
+We also don't want our "username" lingering in the open in our examples, as this is an access token and it's considered security faux pas to prioritize convenience over secrecy when handling private access tokens. It's probably prudent to find a way of passing that token invisibly through our environment, or encrypting it at the very least. Environment variables are usually a good way to pass strings without storing them in distributed sources.
