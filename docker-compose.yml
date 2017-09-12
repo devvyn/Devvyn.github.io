@@ -7,7 +7,7 @@ services:
     volumes:
       - .:/srv/jekyll
     ports:
-      - "80:4000"
+      - "4000:4000"
     networks:
       - webnet
 networks:
