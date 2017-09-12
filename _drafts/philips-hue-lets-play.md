@@ -1,4 +1,5 @@
 ---
+layout: post
 ...
 
 # Philips Hue API for Python
