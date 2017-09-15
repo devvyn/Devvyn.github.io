@@ -1,6 +1,8 @@
 ---
 layout: default
 title: About Devvyn
+permalink: /devvyn/
+category: biography
 ...
 
 # I consider myself to be:
