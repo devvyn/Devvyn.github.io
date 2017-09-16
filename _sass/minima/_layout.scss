@@ -24,6 +24,12 @@
   }
 }
 
+.site-dateline {
+  @include relative-font-size(0.75);
+  font-weight: 300;
+  color: $grey-color;
+}
+
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
