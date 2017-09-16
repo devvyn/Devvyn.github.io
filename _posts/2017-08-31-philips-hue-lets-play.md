@@ -1,1 +1,1 @@
-../_drafts/philips-hue-lets-play.md
+../_drafts/play/philips-hue-getting-started.md
