@@ -13,10 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+plugins:
+#  - jekyll-feed
+#  - jekyll-redirect-from
+  - jekyll-seo-tag
+#  - jekyll-sitemap
+#  - jekyll-avatar
+#  - jemoji
+#  - jekyll-mentions
+#  - jekyll-include-cache
+
+lang: en-CA
 title: Devvyn.io
 sub_title: Software Engineer | Designer | Problem Solver
 author: Devvyn PM
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   This site is about Devvyn Patrick Murphy, a software developer in Saskatoon,
   Saskatchewan, Canada. Learn about Devvyn's personality and where to find this
   human's online material.
@@ -30,12 +41,12 @@ facebook_username: devvyn
 
 # immutable
 lsi: false
-safe: true
+#safe: true
 incremental: false
 highlighter: rouge
 gist:
   noscript: false
-source: .
+#source: <repo>
 
 # mutable defaults
 encoding: UTF-8
@@ -46,10 +57,6 @@ gfm_quirks: paragraph_end
 
 # other
 markdown: kramdown
-plugins: # formerly 'gems'
-  - jekyll-feed
-  - jekyll-coffeescript
-  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
