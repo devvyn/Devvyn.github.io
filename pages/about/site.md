@@ -2,6 +2,7 @@
 layout: page
 title: About This Site
 permalink: /site/
+category: how-it-works
 ...
 
 

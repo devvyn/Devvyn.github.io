@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About Devvyn
 permalink: /devvyn/
 category: biography
