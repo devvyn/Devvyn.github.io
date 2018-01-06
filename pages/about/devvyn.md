@@ -34,9 +34,6 @@ category: biography
 
 # My usernames:
 
-I'm usually just `devvyn`, though sometimes I'm stuck with
-`devvynpm` or `devvynmurphy`. (I'm never `dewyn`.)
-
 ### GitHub: [devvyn][github]
 
 - Open source software – Personal projects and public contributions
@@ -61,6 +58,10 @@ I'm usually just `devvyn`, though sometimes I'm stuck with
 - [Artistic photographs][deviantart 4]
   I captured (with rather bad digital cameras)
 
+### Bandcamp: [Devvyn][bandcamp]
+
+- A couple old [music pieces][bandcamp] I made with a piece of software called Reason
+
 ### Twitter: [devvyn][twitter]
 
 - Tips, links, gripes, miscellaneous
@@ -69,6 +70,7 @@ I'm usually just `devvyn`, though sometimes I'm stuck with
 
 - Personal profile, and some photos
 
+[bandcamp]: https://devvyn.bandcamp.com/
 [deviantart]: https://devvyn.deviantart.com
 [deviantart 2]: http://devvyn.deviantart.com/gallery/4048255/FaceBook-Grafitti
 [deviantart 3]: http://devvyn.deviantart.com/gallery/4048174/Photomanipulations
