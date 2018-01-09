@@ -69,3 +69,14 @@ kramdown:
 # immutable
   math_engine: mathjax
   syntax_highlighter: rouge
+
+# user specified defaults
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+

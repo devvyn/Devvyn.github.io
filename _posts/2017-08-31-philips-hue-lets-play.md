@@ -1,1 +1,0 @@
-../_drafts/play/philips-hue-getting-started.md

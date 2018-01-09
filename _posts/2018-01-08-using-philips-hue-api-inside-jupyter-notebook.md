@@ -9,7 +9,14 @@ A while ago I dove into the wonderful world of Jupyter Notebook, and let me tell
 To give it a test drive, I played with the Philips hue API using standard Python inside a Jupyter Notebook session.
 I alternated between writing a Markdown-formatted explanation of what I was about to do, followed by the actual Python code and the resulting output.
 
+### Check out my first notebook [here][NBViewer].
+
 You can see what my Jupyter notebook looks like at [NBViewer], which shows a nicely formatted version of the notebook file stored as a public [GitHub Gist].
 
+### Check out the official [Project Jupyter] site
+
+It doesn't properly introduce newcomers to the awesomeness, but it will get you started with installing or trying a demo.
+
+[Project Jupyter]: http://jupyter.org/index.html
 [NBViewer]: https://nbviewer.jupyter.org/gist/devvyn/d728ed67526d6b7676740d732babfdb0/philips-hue-lets-play.ipynb
 [GitHub Gist]: https://gist.github.com/devvyn/d728ed67526d6b7676740d732babfdb0
