@@ -38,6 +38,10 @@ category: biography
 
 - Open source software – Personal projects and public contributions
 
+### LinkedIn: [devvyn][linkedin]
+
+- Description of my professional experience
+
 ### StackOverflow: [devvyn][stackoverflow]
 
 - Programming Q & A community
@@ -80,6 +84,7 @@ category: biography
 [facebook]: https://www.facebook.com/devvyn
 [github]: https://github.com/Devvyn
 [GitHub Pages]: https://pages.github.com/
+[linkedin]: https://www.linkedin.com/in/devvyn/
 [source]: https://github.com/devvyn/Devvyn.github.io
 [stackoverflow]: https://stackoverflow.com/users/780458/devvyn
 [twitter]: https://twitter.com/Devvyn
