@@ -46,6 +46,10 @@ category: biography
 
 - Programming Q & A community
 
+### Steam: [devvyn][steam]
+
+- I play mostly puzzle games. Challenge my TIS-100 programming scores!
+
 ### YouTube: [devvynmurphy][youtube]
 
 - Channel dedicated to three minute explanations (1 video)
@@ -87,6 +91,7 @@ category: biography
 [linkedin]: https://www.linkedin.com/in/devvyn/
 [source]: https://github.com/devvyn/Devvyn.github.io
 [stackoverflow]: https://stackoverflow.com/users/780458/devvyn
+[steam]: https://steamcommunity.com/id/devvyn
 [twitter]: https://twitter.com/Devvyn
 [youtube-vid1]: http://youtu.be/uRJoY5odA7k
 [youtube]: https://www.youtube.com/user/devvynmurphy
