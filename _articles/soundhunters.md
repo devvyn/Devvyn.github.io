@@ -3,7 +3,8 @@ title: SoundHunters
 layout: post
 ---
 
-# How would you describe SoundHounds?
+
+# How would you describe SoundHunters?
 
 A digital thing that, as a mobile app, algorithmically performs the following transformation:
 User-supplied audio + metadata + parameterized configuration => copyright-free, sample based, parametric music composition
@@ -18,6 +19,6 @@ The formula mentioned in opening fits well with the functional programming parad
 
 Caveat: Acceptance of this fact requires accepting a redefinition of user shareable, digital music content files, because any significant unpredictability of the resulting playback of the shared file subsequent to transferral (or otherwise, for that matter) would violate the concept of recorded music, while conversely all the consequential properties of live musical performance--especially improvisational aspects--would violate the concept of programmatically computed music files.
 
-# What is SoundHounds from a programmer's point of view?
+# What is SoundHunters from a programmer's point of view?
 
-Given that songs produced with SoundHounds exist in the domain between either of the two conceptual extremes, and therefore also in both, as a hybridization of human performance and mathematical record sharing, SoundHounds songs are uniquely special end especially unique. 
+Given that songs produced with SoundHunters exist in the domain between either of the two conceptual extremes—and therefore also in both—as a hybridization of human performance and mathematical record sharing, SoundHounds songs are uniquely special end especially unique. 
