@@ -56,6 +56,9 @@ theme: minima
 gfm_quirks: paragraph_end
 
 # other
+collections:
+  articles:
+    output: true
 markdown: kramdown
 exclude:
   - Gemfile
