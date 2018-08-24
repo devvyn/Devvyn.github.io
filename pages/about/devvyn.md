@@ -46,6 +46,11 @@ category: biography
 
 - Programming Q & A community
 
+### Duolingo: [DevvynPM][duolingo]
+
+- If you're using Duoling or are interested in "gamified" free language education
+  on the web and your phone, follow me at this username and compete with me!
+
 ### Steam: [devvyn][steam]
 
 - I play mostly puzzle games. Challenge my TIS-100 programming scores!
@@ -85,6 +90,7 @@ category: biography
 [deviantart 4]: http://devvyn.deviantart.com/gallery/4048186/Photography
 [devvyn.github.io]: http://devvyn.github.io/
 [devvyn.io]: http://devvyn.io/
+[duolingo]: https://www.duolingo.com/DevvynPM
 [facebook]: https://www.facebook.com/devvyn
 [github]: https://github.com/Devvyn
 [GitHub Pages]: https://pages.github.com/
