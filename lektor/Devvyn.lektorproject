@@ -1,0 +1,9 @@
+[project]
+name = Devvyn.GitHubio
+locale = en_CA
+url = https://devvyn.io/
+
+[servers.ghpages]
+target = ghpages+https://devvyn/Devvyn.github.io
+enabled = no
+default = no
