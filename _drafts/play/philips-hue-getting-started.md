@@ -2,19 +2,37 @@
 layout: post
 ...
 
-# Philips Hue API for Python
+# Let’s Play: Philips Hue with Python
 
-Before we begin, take note that there will be code examples
-which assume you'll be using Jupyter Notebook.
-If you're not, here's a quick workaround:
+## Introduction
+
+This article offers a quick ride along with me as I change the colour of a Philips hue light by sending commands over a home network from a Python shell on my home computer.
+Since all the action in today’s example is based on simple HTTP messages,
+you could do the things shown here in any programming language.
+I use Python because it’s simple and clean,
+and I think it’s readable even to non-Pythonic developers.
+
+### I recommend opening this document as a Jupyter notebook
+
+I use Jupyter Notebook because it lets me write documents
+while also trying code I’m talking about,
+with output captured as part of the document.
+The code samples assume you'll be using [Jupyter Notebook], too.
+If you have a hue hub,
+I recommend opening this document as a Jupyter notebook,
+so you can edit the code blocks and run them in place.
+
+#### Running these code samples without Jupyter Notebook
+
+If you're not using Jupyter Notebook, here's a quick workaround to make the examples work in plain Python.
+Execute this statement before any code sample that uses the `display` function:
 
 ```python
 display = print
 ```
 
-## Getting Started
+## Getting started with the official *Getting Started* document
 
-Let's give this a try.
 Taking a look at the [Getting started] document on [developers.meethue.com],
 I see that the first task is getting on the same network as the Hue hub
 and confirming its connection and ours.
@@ -264,7 +282,11 @@ display(me)
     {'username': 'cV4mAIgcdlY4vgXfpCjlk0eS9gqvYTThwZfugxQO'}
 
 
-Splendid! Can I turn my light strip orange? We'll need to find a way to identify it. Let's get list of lights, and a basic filter search, by name.
+Splendid!
+
+### Interacting with a light
+
+Can I turn my light strip orange? We'll need to find a way to identify it. Let's get list of lights, and a basic filter search, by name.
 
 
 ```python
@@ -358,7 +380,7 @@ display(json.loads(response.read().decode('utf-8')))
 
 Well, it wasn't very easy to get the right colour, and we couldn't re-use the `request_json` function, but I saw the light turn on and it looked orange to me. Success?
 
-## Mixed results
+## Conclusions
 
 ### The good
 
