@@ -1,5 +1,5 @@
 ---
-layout: post
+date: 2017-09-01
 ...
 
 # Let’s Play: Philips Hue with Python

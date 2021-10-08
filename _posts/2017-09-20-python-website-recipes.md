@@ -1,5 +1,5 @@
 ---
-title:
+title: Python Website Recipes
 ...
 
 I've already made a personal site with [GitHub Pages],
